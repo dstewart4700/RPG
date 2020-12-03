@@ -1,2 +1,2 @@
 # RPG
-The Game
+Fight the knight, win.
